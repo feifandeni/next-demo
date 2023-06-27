@@ -23,8 +23,8 @@ export default function Home() {
           </a>
         </div>
       </div>
-      <div className={styles.center}>测试22</div>
-      <div className={styles.grid}>测试33</div>
+      <div className={styles.center}></div>
+      <div className={styles.grid}></div>
     </main>
   );
 }
