@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
-        测试网址
+        测试
         <div>
           <a
             target="_blank"
